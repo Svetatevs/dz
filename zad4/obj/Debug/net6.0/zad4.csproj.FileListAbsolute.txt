@@ -1,0 +1,15 @@
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\bin\Debug\net6.0\zad4.exe
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\bin\Debug\net6.0\zad4.deps.json
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\bin\Debug\net6.0\zad4.runtimeconfig.json
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\bin\Debug\net6.0\zad4.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\bin\Debug\net6.0\zad4.pdb
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\obj\Debug\net6.0\zad4.csproj.AssemblyReference.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\obj\Debug\net6.0\zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\obj\Debug\net6.0\zad4.AssemblyInfoInputs.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\obj\Debug\net6.0\zad4.AssemblyInfo.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\obj\Debug\net6.0\zad4.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\obj\Debug\net6.0\zad4.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\obj\Debug\net6.0\refint\zad4.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\obj\Debug\net6.0\zad4.pdb
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\obj\Debug\net6.0\zad4.genruntimeconfig.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\DZ\dz\zad4\obj\Debug\net6.0\ref\zad4.dll
